@@ -28,177 +28,177 @@
         }
         path:nth-of-type(2) {
             transform-origin: 112.089px 151.943px;
-            animation: revealpatch 0.4s 0.1s forwards;
+            animation: revealpatch 0.4s 0.04s forwards;
         }
         path:nth-of-type(3) {
             transform-origin: 64.905px 244.5605px;
-            animation: revealpatch 0.4s 0.2s forwards;
+            animation: revealpatch 0.4s 0.08s forwards;
         }
 
         path:nth-of-type(4) {
             transform-origin: 272.218px 169.704px;
-            animation: revealpatch 0.4s 0.4s forwards;
+            animation: revealpatch 0.4s 0.16s forwards;
         }
         path:nth-of-type(5) {
             transform-origin: 300.2165px 129.2855px;
-            animation: revealpatch 0.4s 0.5s forwards;
+            animation: revealpatch 0.4s 0.2s forwards;
         }
         path:nth-of-type(6) {
             transform-origin: 221.482px 120.384px;
-            animation: revealpatch 0.4s 0.6s forwards;
+            animation: revealpatch 0.4s 0.24s forwards;
         }
         path:nth-of-type(7) {
             transform-origin: 192.0995px 170.4765px;
-            animation: revealpatch 0.4s 0.7s forwards;
+            animation: revealpatch 0.4s 0.28s forwards;
         }
         path:nth-of-type(8) {
             transform-origin: 197.7255px 227.7765px;
-            animation: revealpatch 0.4s 0.8s forwards;
+            animation: revealpatch 0.4s 0.32s forwards;
         }
         path:nth-of-type(9) {
             transform-origin: 269.0555px 250.132px;
-            animation: revealpatch 0.4s 0.9s forwards;
+            animation: revealpatch 0.4s 0.36s forwards;
         }
         path:nth-of-type(10) {
             transform-origin: 260.881px 32.6005px;
-            animation: revealpatch 0.4s 1s forwards;
+            animation: revealpatch 0.4s 0.4s forwards;
         }
 
         path:nth-of-type(11) {
             transform-origin: 460.245px 252.939px;
-            animation: revealpatch 0.4s 1.2s forwards;
+            animation: revealpatch 0.4s 0.48s forwards;
         }
         path:nth-of-type(12) {
             transform-origin: 389.5555px 195.1345px;
-            animation: revealpatch 0.4s 1.3s forwards;
+            animation: revealpatch 0.4s 0.52s forwards;
         }
         path:nth-of-type(13) {
             transform-origin: 426.997px 100.1535px;
-            animation: revealpatch 0.4s 1.4s forwards;
+            animation: revealpatch 0.4s 0.56s forwards;
         }
         path:nth-of-type(14) {
             transform-origin: 497.9505px 165.082px;
-            animation: revealpatch 0.4s 1.5s forwards;
+            animation: revealpatch 0.4s 0.6s forwards;
         }
         path:nth-of-type(15) {
             transform-origin: 496.1425px 287.2175px;
-            animation: revealpatch 0.4s 1.6s forwards;
+            animation: revealpatch 0.4s 0.64s forwards;
         }
         path:nth-of-type(16) {
             transform-origin: 438.643px 322.1495px;
-            animation: revealpatch 0.4s 1.7s forwards;
+            animation: revealpatch 0.4s 0.68s forwards;
         }
         path:nth-of-type(17) {
             transform-origin: 430.934px 150.1865px;
-            animation: revealpatch 0.4s 1.8s forwards;
+            animation: revealpatch 0.4s 0.72s forwards;
         }
         path:nth-of-type(18) {
             transform-origin: 445.105px 193.788px;
-            animation: revealpatch 0.4s 1.9s forwards;
+            animation: revealpatch 0.4s 0.76s forwards;
         }
 
         path:nth-of-type(19) {
             transform-origin: 605.2475px 107.3px;
-            animation: revealpatch 0.4s 2.1s forwards;
+            animation: revealpatch 0.4s 0.84s forwards;
         }
         path:nth-of-type(20) {
             transform-origin: 566.349px 153.6515px;
-            animation: revealpatch 0.4s 2.2s forwards;
+            animation: revealpatch 0.4s 0.88s forwards;
         }
         path:nth-of-type(21) {
             transform-origin: 588.472px 232.6805px;
-            animation: revealpatch 0.4s 2.3s forwards;
+            animation: revealpatch 0.4s 0.92s forwards;
         }
         path:nth-of-type(22) {
             transform-origin: 680.257px 214.1265px;
-            animation: revealpatch 0.4s 2.4s forwards;
+            animation: revealpatch 0.4s 0.96s forwards;
         }
         path:nth-of-type(23) {
             transform-origin: 674.436px 115.015px;
-            animation: revealpatch 0.4s 2.5s forwards;
+            animation: revealpatch 0.4s 1s forwards;
         }
         path:nth-of-type(24) {
             transform-origin: 638.5605px 158.252px;
-            animation: revealpatch 0.4s 2.6s forwards;
+            animation: revealpatch 0.4s 1.04s forwards;
         }
         path:nth-of-type(25) {
             transform-origin: 625.542px 207.35px;
-            animation: revealpatch 0.4s 2.7s forwards;
+            animation: revealpatch 0.4s 1.08s forwards;
         }
 
         path:nth-of-type(26) {
             transform-origin: 765.4945px 110.1265px;
-            animation: revealpatch 0.4s 2.9s forwards;
+            animation: revealpatch 0.4s 1.16s forwards;
         }
         path:nth-of-type(27) {
             transform-origin: 767.826px 172.0015px;
-            animation: revealpatch 0.4s 3s forwards;
+            animation: revealpatch 0.4s 1.2s forwards;
         }
         path:nth-of-type(28) {
             transform-origin: 778.5995px 226.498px;
-            animation: revealpatch 0.4s 3.1s forwards;
+            animation: revealpatch 0.4s 1.24s forwards;
         }
         path:nth-of-type(29) {
             transform-origin: 843.4285px 252.2645px;
-            animation: revealpatch 0.4s 3.2s forwards;
+            animation: revealpatch 0.4s 1.28s forwards;
         }
         path:nth-of-type(30) {
             transform-origin: 867.553px 211.5615px;
-            animation: revealpatch 0.4s 3.3s forwards;
+            animation: revealpatch 0.4s 1.32s forwards;
         }
         path:nth-of-type(31) {
             transform-origin: 869.7615px 127.6785px;
-            animation: revealpatch 0.4s 3.4s forwards;
+            animation: revealpatch 0.4s 1.36s forwards;
         }
 
         path:nth-of-type(32) {
             transform-origin: 957.556px 113.509px;
-            animation: revealpatch 0.4s 3.6s forwards;
+            animation: revealpatch 0.4s 1.44s forwards;
         }
         path:nth-of-type(33) {
             transform-origin: 1018.9065px 110.2335px;
-            animation: revealpatch 0.4s 3.7s forwards;
+            animation: revealpatch 0.4s 1.48s forwards;
         }
         path:nth-of-type(34) {
             transform-origin: 1038.448px 218.5875px;
-            animation: revealpatch 0.4s 3.8s forwards;
+            animation: revealpatch 0.4s 1.52s forwards;
         }
         path:nth-of-type(35) {
             transform-origin: 957.8435px 233.079px;
-            animation: revealpatch 0.4s 3.9s forwards;
+            animation: revealpatch 0.4s 1.56s forwards;
         }
         path:nth-of-type(36) {
             transform-origin: 954.6155px 177.5675px;
-            animation: revealpatch 0.4s 4s forwards;
+            animation: revealpatch 0.4s 1.6s forwards;
         }
         path:nth-of-type(37) {
             transform-origin: 1014.6875px 163.4585px;
-            animation: revealpatch 0.4s 4.1s forwards;
+            animation: revealpatch 0.4s 1.64s forwards;
         }
 
         path:nth-of-type(38) {
             transform-origin: 1111.2885px 251.262px;
-            animation: revealpatch 0.4s 4.3s forwards;
+            animation: revealpatch 0.4s 1.72s forwards;
         }
         path:nth-of-type(39) {
             transform-origin: 1109.4165px 201.555px;
-            animation: revealpatch 0.4s 4.4s forwards;
+            animation: revealpatch 0.4s 1.76s forwards;
         }
         path:nth-of-type(40) {
             transform-origin: 1109.6815px 150.6075px;
-            animation: revealpatch 0.4s 4.5s forwards;
+            animation: revealpatch 0.4s 1.8s forwards;
         }
         path:nth-of-type(41) {
             transform-origin: 1104.1735px 90.7075px;
-            animation: revealpatch 0.4s 4.6s forwards;
+            animation: revealpatch 0.4s 1.84s forwards;
         }
         path:nth-of-type(42) {
             transform-origin: 1141.7465px 107.7635px;
-            animation: revealpatch 0.4s 4.7s forwards;
+            animation: revealpatch 0.4s 1.88s forwards;
         }
         path:nth-of-type(43) {
             transform-origin: 1184.868px 118.6825px;
-            animation: revealpatch 0.4s 4.8s forwards;
+            animation: revealpatch 0.4s 1.92s forwards;
         }
 
 		@keyframes Dslide {
@@ -225,7 +225,7 @@
 			}
 		}
         path:nth-of-type(44) {
-            animation: Dslide 8s forwards;
+            animation: Dslide 4s forwards;
 		}
 		
 		@keyframes Eslide {
@@ -252,7 +252,7 @@
 			}
 		}
         path:nth-of-type(45) {
-			animation: Eslide 8s forwards;
+			animation: Eslide 4s forwards;
 		}
 		
 		@keyframes Sslide {
@@ -279,7 +279,7 @@
 			}
 		}
         path:nth-of-type(46) {
-			animation: Sslide 8s forwards;
+			animation: Sslide 4s forwards;
 		}
 		
 		@keyframes Islide {
@@ -306,7 +306,7 @@
 			}
 		}
         path:nth-of-type(47) {
-			animation: Islide 8s forwards;
+			animation: Islide 4s forwards;
 		}
 		
 		@keyframes Gslide {
@@ -333,7 +333,7 @@
 			}
 		}
         path:nth-of-type(48) {
-			animation: Gslide 8s forwards;
+			animation: Gslide 4s forwards;
 		}
 		
 		@keyframes Nslide {
@@ -357,7 +357,7 @@
 			}
 		}
         path:nth-of-type(49) {
-			animation: Nslide 8s forwards;
+			animation: Nslide 4s forwards;
 		}
 
 	</style>
