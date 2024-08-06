@@ -1,0 +1,140 @@
+body {
+    overflow-x: hidden;
+    font-family: "Aleo", serif;
+    font-optical-sizing: auto;
+    font-size: clamp(1rem, 0.75vw + 0.75rem, 1.5rem);
+    font-weight: 400;
+    font-style: normal;
+}
+
+main {
+    position: absolute;
+    top: 18vw;
+    width: 100vw;
+}
+@media screen and (min-width: 600px) {
+    main {
+        top: 9vw;
+    }
+}
+
+h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 7.2vw;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: #252829;
+    color: #F5C68B;
+    margin-top: 7.2vw;
+    margin-bottom: 3.6vw;
+}
+@media screen and (min-width: 600px) {
+    h2 {
+        font-size: 3.6vw;
+        margin-top: 3.6vw;
+        margin-bottom: 2.4vw;
+    }
+}
+
+@keyframes headerslide {
+    from {
+        left: -100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+
+p {
+    padding: clamp(0.25rem, 0.25vw + 0.25rem, 0.75rem) 2vw;
+}
+
+@keyframes textreveal {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* about section */
+
+#about h2 {
+    position: relative;
+    left: -100vw;
+    animation: headerslide 0.8s 7.2s forwards;
+}
+
+#about > div {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+@media screen and (min-width: 600px) {
+    #about > div {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+#about img {
+    width: 100vw;
+    margin-top: -3.6vw;
+}
+
+@media screen and (min-width: 600px) {
+    #about img {
+        width: 25vw;
+        margin-top: -2.4vw;
+    }
+}
+
+#about p {
+    opacity: 0;
+}
+
+#about p:nth-of-type(1) {
+    animation: textreveal 1.2s 8s forwards;
+}
+#about p:nth-of-type(2) {
+    animation: textreveal 1.2s 8.4s forwards;
+}
+#about p:nth-of-type(3) {
+    animation: textreveal 1.2s 8.8s forwards;
+}
+
+
+/* projects section */
+
+#projects h2 {
+    position: relative;
+    left: -100vw;
+    animation: headerslide 0.8s 10.2s forwards;
+}
+
+
+/* skills section */
+
+#skills h2 {
+    position: relative;
+    left: -100vw;
+    animation: headerslide 0.8s 13.2s forwards;
+}
+
+
+/* contact section */
+
+#contact h2 {
+    position: relative;
+    left: -100vw;
+    animation: headerslide 0.8s 16.2s forwards;
+}
+

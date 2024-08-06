@@ -3,7 +3,7 @@
 	<style>
 
         .jegouar, .design {
-            fill: darkslategrey;
+            fill: #252829;
 			stroke-width: 0;
 			opacity: 0;
         }

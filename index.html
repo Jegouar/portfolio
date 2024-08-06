@@ -3,43 +3,79 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="https://kit.fontawesome.com/0607e16f2a.js" crossorigin="anonymous"></script>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap">
+        <link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="reset.css">
-        <link rel="stylesheet" href="styles.css">
-        <title>Jégou</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="navigation.css">
+        <title>Document</title>
     </head>
     <body>
-        <header>
-            <a href="index.html"><img src="images/jegouar-design_logo_animation.svg" alt="Jégouar Design logo"></a>
-            <div class="toggle">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </header>
         <nav>
-            <a href="#about" class="menu">ABOUT</a>
-            <a href="javascript:void(0)" class="menu projects dropdown">
-                PROJECTS
-                <div class="caret">
-                    <span></span>
-                    <span></span>
-                </div>
-            </a>
-            <a href="#skills" class="menu">SKILLS</a>
-            <a href="#contact" class="menu">CONTACT</a>
-            <a href="ecodemical.html" class="submenu projects">ECODEMICAL</a>
-            <a href="wheatley-windmill.html" class="submenu projects">WHEATLEY WINDMILL</a>
-            <a href="green-homepage.html" class="submenu projects">GREEN HOME ENERGY SERVICES</a>
-            <a href="white-horse-harriers-masters.html" class="submenu projects">MASTERS TRACK & FIELD</a>
-            <a href="st-marys-church-childrey.html" class="submenu projects">ST MARY'S CHURCH</a>
-            <a href="shoulder-of-mutton.html" class="submenu projects">SHOULDER OF MUTTON</a>
+            <ul class="menu">
+                <li class="logo"><a href="#"><img src="images/jegouar-design_logo_animation.svg" alt="Jégouar Design logo"></a></li>
+                <li class="item"><a href="#">ABOUT</a></li>
+                <li class="item has-submenu">
+                    <a tabindex="0">
+                        PROJECTS
+                        <div class="caret">
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </a>
+                    <ul class="submenu">
+                        <li class="subitem"><a href="#">ECODEMICAL</a></li>
+                        <li class="subitem"><a href="#">WHEATLEY WINDMILL</a></li>
+                        <li class="subitem"><a href="#">GREEN HOME ENERGY SERVICES</a></li>
+                        <li class="subitem"><a href="#">MASTERS TRACK & FIELD</a></li>
+                        <li class="subitem"><a href="#">ST MARY'S CHURCH</a></li>
+                        <li class="subitem"><a href="#">SHOULDER OF MUTTON</a></li>
+                    </ul>
+                </li>
+                <li class="item"><a href="#">SKILLS</a></li>
+                <li class="item"><a href="#">CONTACT</a></li>
+                <li class="toggle">
+                    <a href="#">
+                        <div>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
         </nav>
-        
-        <script src="scripts.js"></script>
+        <main>
+            <section id="about">
+                <h2>About Me</h2>
+                <div>
+                    <div>
+                        <p>Hi, my name is Paul Jégou, welcome to my portfolio.</p>
+                        <p>I'm a graduate Mechanical Engineer who combines exacting standards of precision with innovative and creative design to deliver a satisfying customer and user experience.</p>
+                        <p>As well as web development, my interests include photography, graphic design, athletics and pub quizzes.</p>
+                    </div>
+                    <img src="images/portrait.svg" alt="Portrait of Paul Jégou">
+                </div>
+                
+            </section>
+            <section id="projects">
+                <h2>Projects</h2>
+                <div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eos commodi laboriosam. Doloremque repudiandae accusantium libero mollitia, enim delectus odio eius fuga perspiciatis, sunt a hic qui excepturi culpa magnam.</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. In excepturi aperiam enim. Repellat dicta minima voluptatibus. Doloribus recusandae a dolorem eveniet minima qui officia ipsum facilis enim corrupti, vel asperiores.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, nesciunt! Porro praesentium asperiores neque sunt repudiandae deserunt minima eos fugiat. Excepturi voluptas dignissimos voluptates doloribus expedita sed necessitatibus harum nemo!</p>
+                </div>
+            </section>
+            <section id="skills">
+                <h2>Skills</h2>
+                <p></p>
+            </section>
+            <footer id="contact">
+                <h2>Contact</h2>
+                <p></p>
+            </footer>
+        </main>
+        <script src="navigation.js"></script>
     </body>
 </html>
