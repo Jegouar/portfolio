@@ -156,7 +156,7 @@ nav {
     display: none;
     background-color: #AF6A47;
     border-bottom: solid 0.2vw #252829;
-    
+    cursor: pointer;
 }
 
 @media screen and (min-width: 600px) {
@@ -172,7 +172,7 @@ nav {
     }
 }
 
-@keyframes itemslidein {
+@keyframes itemslide {
     0% {
         translate: 60vw 0;
     }
@@ -185,22 +185,22 @@ nav {
 }
 @media screen and (min-width: 600px) {
     .item:nth-child(2) {
-        animation: itemslidein 0.4s 5s forwards;
+        animation: itemslide 0.4s 5s forwards;
     }
 }
 @media screen and (min-width: 600px) {
     .item:nth-child(3) {
-        animation: itemslidein 0.4s 5.2s forwards;
+        animation: itemslide 0.4s 5.2s forwards;
     }
 }
 @media screen and (min-width: 600px) {
     .item:nth-child(4) {
-        animation: itemslidein 0.4s 5.4s forwards;
+        animation: itemslide 0.4s 5.4s forwards;
     }
 }
 @media screen and (min-width: 600px) {
     .item:nth-child(5) {
-        animation: itemslidein 0.4s 5.6s forwards;
+        animation: itemslide 0.4s 5.6s forwards;
     }
 }
 
@@ -241,10 +241,6 @@ nav {
     animation-duration: 0.4s;
     animation-delay: 0.6s;
     animation-fill-mode: forwards;
-}
-
-.has-submenu {
-    cursor: pointer;
 }
 
 .caret {
@@ -413,7 +409,7 @@ nav {
     }
 }
 
-@keyframes toggleslidein {
+@keyframes toggleslide {
     0% {
         translate: 10vw 0;
     }
@@ -442,17 +438,17 @@ nav {
 
 .toggle span:nth-child(1) {
     top: 0;
-    animation: toggleslidein 0.4s 5s forwards;
+    animation: toggleslide 0.4s 5s forwards;
 }
 
 .toggle span:nth-child(2) {
     top: 2.7vw;
-    animation: toggleslidein 0.4s 5.2s forwards;
+    animation: toggleslide 0.4s 5.2s forwards;
 }
 
 .toggle span:nth-child(3) {
     top: 5.4vw;
-    animation: toggleslidein 0.4s 5.4s forwards;
+    animation: toggleslide 0.4s 5.4s forwards;
 }
 
 .toggle.cross span:nth-child(1) {

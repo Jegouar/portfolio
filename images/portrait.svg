@@ -1,4 +1,4 @@
-<svg width="1200" height="1200" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
 	
     <style>
 
@@ -17,131 +17,131 @@
 
         g:nth-of-type(1) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.2s forwards;
+            animation: revealcolour 0.4s 5.2s forwards;
         }
         g:nth-of-type(2) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.3s forwards;
+            animation: revealcolour 0.4s 5.24s forwards;
         }
         g:nth-of-type(3) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.4s forwards;
+            animation: revealcolour 0.4s 5.28s forwards;
         }
         g:nth-of-type(4) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.5s forwards;
+            animation: revealcolour 0.4s 5.32s forwards;
         }
         g:nth-of-type(5) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.6s forwards;
+            animation: revealcolour 0.4s 5.36s forwards;
         }
         g:nth-of-type(6) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.7s forwards;
+            animation: revealcolour 0.4s 5.4s forwards;
         }
         g:nth-of-type(7) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.8s forwards;
+            animation: revealcolour 0.4s 5.44s forwards;
         }
         g:nth-of-type(8) {
             opacity: 0;
-            animation: revealcolour 0.4s 7.9s forwards;
+            animation: revealcolour 0.4s 5.48s forwards;
         }
         g:nth-of-type(9) {
             opacity: 0;
-            animation: revealcolour 0.4s 8s forwards;
+            animation: revealcolour 0.4s 5.52s forwards;
         }
         g:nth-of-type(10) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.1s forwards;
+            animation: revealcolour 0.4s 5.56s forwards;
         }
         g:nth-of-type(11) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.2s forwards;
+            animation: revealcolour 0.4s 5.6s forwards;
         }
         g:nth-of-type(12) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.3s forwards;
+            animation: revealcolour 0.4s 5.64s forwards;
         }
         g:nth-of-type(13) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.4s forwards;
+            animation: revealcolour 0.4s 5.68s forwards;
         }
         g:nth-of-type(14) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.5s forwards;
+            animation: revealcolour 0.4s 5.72s forwards;
         }
         g:nth-of-type(15) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.6s forwards;
+            animation: revealcolour 0.4s 5.76s forwards;
         }
         g:nth-of-type(16) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.7s forwards;
+            animation: revealcolour 0.4s 5.8s forwards;
         }
         g:nth-of-type(17) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.8s forwards;
+            animation: revealcolour 0.4s 5.84s forwards;
         }
         g:nth-of-type(18) {
             opacity: 0;
-            animation: revealcolour 0.4s 8.9s forwards;
+            animation: revealcolour 0.4s 5.88s forwards;
         }
         g:nth-of-type(19) {
             opacity: 0;
-            animation: revealcolour 0.4s 9s forwards;
+            animation: revealcolour 0.4s 5.92s forwards;
         }
         g:nth-of-type(20) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.1s forwards;
+            animation: revealcolour 0.4s 5.96s forwards;
         }
         g:nth-of-type(21) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.2s forwards;
+            animation: revealcolour 0.4s 6s forwards;
         }
         g:nth-of-type(22) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.3s forwards;
+            animation: revealcolour 0.4s 6.04s forwards;
         }
         g:nth-of-type(23) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.4s forwards;
+            animation: revealcolour 0.4s 6.08s forwards;
         }
         g:nth-of-type(24) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.5s forwards;
+            animation: revealcolour 0.4s 6.12s forwards;
         }
         g:nth-of-type(25) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.6s forwards;
+            animation: revealcolour 0.4s 6.16s forwards;
         }
         g:nth-of-type(26) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.7s forwards;
+            animation: revealcolour 0.4s 6.2s forwards;
         }
         g:nth-of-type(27) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.8s forwards;
+            animation: revealcolour 0.4s 6.24s forwards;
         }
         g:nth-of-type(28) {
             opacity: 0;
-            animation: revealcolour 0.4s 9.9s forwards;
+            animation: revealcolour 0.4s 6.28s forwards;
         }
         g:nth-of-type(29) {
             opacity: 0;
-            animation: revealcolour 0.4s 10s forwards;
+            animation: revealcolour 0.4s 6.32s forwards;
         }
         g:nth-of-type(30) {
             opacity: 0;
-            animation: revealcolour 0.4s 10.1s forwards;
+            animation: revealcolour 0.4s 6.36s forwards;
         }
         g:nth-of-type(31) {
             opacity: 0;
-            animation: revealcolour 0.4s 10.2s forwards;
+            animation: revealcolour 0.4s 6.4s forwards;
         }
         g:nth-of-type(32) {
             opacity: 0;
-            animation: revealcolour 0.4s 10.3s forwards;
+            animation: revealcolour 0.4s 6.44s forwards;
         }
 
     </style>
